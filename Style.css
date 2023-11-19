@@ -2,10 +2,10 @@ body{
     background-color: aquamarine;
     border: 4px solid;
     border-radius: 35px;
+    margin: 100px;
 }
 #main{
-    padding-top: 16%;
-    padding-bottom: 16%;
+    margin: 100px;
 }
 #Header{
     font-size: large;
